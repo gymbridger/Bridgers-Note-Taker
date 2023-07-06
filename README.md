@@ -2,7 +2,7 @@
 
 This is a repository for the University Of Utah Coding Bootcamp. This contains module 11
 
-Link to the live application: http://localhost:3001/notes
+Link to the application: http://localhost:3001/notes
 
 ## Description
 
