@@ -2,7 +2,7 @@
 
 This is a repository for the University Of Utah Coding Bootcamp. This contains module 11
 
-Link to the application: https://frozen-everglades-81002-df236af5b359.herokuapp.com/
+Link to the application: https://frozen-everglades-81002-df236af5b359.herokuapp.com/notes
 
 ## Description
 
